@@ -16,7 +16,7 @@ class ThankYou extends Component{
                     <div className="ThankyouPage">
                        <h1>Thank you for your order</h1>
                        <p className="OrderId">Order id is: {orderId.toLocaleUpperCase()}</p>
-                       <p className="SmallText">You will receive an email confirmation shortly at email@gmail.com</p>
+                      
                     </div>
                 </div>
             </div>
